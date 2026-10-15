@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Anjum
 
-<!--
-**Anjum-k/Anjum-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MSC AI&ML final year student and I am interested in Artificial intelligence and machine learning, graph neural networks and healthcare AI.
 
-Here are some ideas to get you started:
+## Featured project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[BioGraph AI](https://github.com/Anjum-k/biograph-ai)**: Heterogeneous GNN (HGT) for drug–disease link
+prediction on the Hetionet knowledge graph. Test AUROC about 0.85 (small test set).
+
+## Skills
+Python · PyTorch · PyTorch Geometric · pandas · Git
+
+## Contact
+- Email: doi.anjum@gmail.com
+- LinkedIn: www.linkedin.com/in/anjum-a85549203
